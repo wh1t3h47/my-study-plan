@@ -9,17 +9,15 @@ This is a comprehensive list of what technologies I studied after I started my c
 # Subjects:
 
 - ## Programming:
-  > ### JavaScript
 
+> ### JavaScript
   > Frameworks
     > Vue
-  > ### CSS
-     - #### SASS
-
-  > ### Python
+> ### CSS
+> ### Python
   
-  > ### C
-     - #### GCC
+> ### C
+  - #### GCC
 
 -  ## Computer Science:
 
