@@ -14,6 +14,8 @@ This is a comprehensive list of what technologies I studied after I started my c
   - #### Frameworks
     > #### Vue
       > - [x] https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b
+      > - [ ] https://medium.com/vue-mastery/how-to-create-vue-js-transitions-6487dffd0baa
+      > - [ ] https://nuxtjs.org/examples/routes-transitions/
 
 - Vue
 
