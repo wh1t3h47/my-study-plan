@@ -18,7 +18,7 @@ This is a comprehensive list of what technologies I studied after I started my c
   > ### Python
   
   > ### C
-        > #### GCC
+     - #### GCC
 
 -  ## Computer Science:
 
