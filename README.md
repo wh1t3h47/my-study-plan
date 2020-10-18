@@ -13,6 +13,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### JavaScript
   - #### Frameworks
     > #### Vue
+    > - [x] https://www.youtube.com/watch?v=4deVCNJq3qc
     > - [ ] https://medium.com/vue-mastery/how-to-create-vue-js-transitions-6487dffd0baa
     > - [x] https://www.vuemastery.com/blog/Reactivity-Vue2-vs-Vue3/
     > #### Vue/ nuxt
