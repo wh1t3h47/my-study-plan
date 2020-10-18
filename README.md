@@ -9,11 +9,11 @@ This is a comprehensive list of what technologies I studied and what I plan to s
 # Subjects:
 
   ## Programming:
-  ### JavaScript
+  > ### JavaScript
   - [ ]
     - TypeScript
   
-  ### CSS
+  ### > CSS
 
   ### 
 
