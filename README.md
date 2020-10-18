@@ -10,14 +10,14 @@ This is a comprehensive list of what technologies I studied after I started my c
 
 ## Programming:
 > JavaScript
-  > Frameworks
-    > Vue
+> Frameworks
+> Vue
     
-> ### CSS
-> ### Python
+> CSS
+> Python
   
-> ### C
-  - #### GCC
+> C
+
 
 ## Computer Science:
 
