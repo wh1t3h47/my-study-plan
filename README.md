@@ -16,18 +16,20 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [x] https://www.youtube.com/watch?v=4deVCNJq3qc
     > - [ ] https://medium.com/vue-mastery/how-to-create-vue-js-transitions-6487dffd0baa
     > - [x] https://www.vuemastery.com/blog/Reactivity-Vue2-vs-Vue3/
+    > - [x] https://vue-loader.vuejs.org/guide/scoped-css.html
     > #### Vue/ nuxt
     > - [x] https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b
     > - [ ] https://nuxtjs.org/examples/routes-transitions/
     > - [x] https://nuxtjs.org/guides/features/deployment-targets/
 
-- Vue
+- ### CSS
 
-- CSS
+- ### HTML
+  > - [x] https://developer.mozilla.org/pt-BR/docs/Mozilla/Mobile/Viewport_meta_tag
 
-- Python
+- ### Python
 
-- C
+- ### C
 
 
 ## Computer Science:
