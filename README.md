@@ -11,7 +11,7 @@ This is a comprehensive list of what technologies I studied and what I plan to s
 - ## Programming:
   > ### JavaScript
   - [ ]
-    - TypeScript
+    > #### TypeScript
   
   > ### CSS
 
