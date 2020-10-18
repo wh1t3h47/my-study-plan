@@ -8,19 +8,17 @@ This is a comprehensive list of what technologies I studied and what I plan to s
 
 # Subjects:
 
-  ## Programming:
+- ## Programming:
   > ### JavaScript
   - [ ]
     - TypeScript
   
-  ### > CSS
+  > ### CSS
 
-  ### 
-
-  ### Python
+  > ### Python
   
-  ### C
+  > ### C
 
-  ## Computer Science:
+-  ## Computer Science:
 
-  ## Information Security:
+-  ## Information Security:
