@@ -13,7 +13,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### JavaScript
   - #### Frameworks
     > #### Vue
-      > [x] https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b
+      > - [x] https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b
 
 - Vue
 
