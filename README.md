@@ -10,15 +10,15 @@ This is a comprehensive list of what technologies I studied after I started my c
 
 - ## Programming:
   > ### JavaScript
-    > #### TypeScript
+        > #### TypeScript
   
   > ### CSS
-    > #### SASS
+        > #### SASS
 
   > ### Python
   
   > ### C
-    > #### GCC
+        > #### GCC
 
 -  ## Computer Science:
 
