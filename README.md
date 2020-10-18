@@ -10,7 +10,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 
 ## Programming:
 
-> ### JavaScript
+> JavaScript
     > Frameworks
         > Vue
     
