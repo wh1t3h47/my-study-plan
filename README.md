@@ -8,7 +8,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 
 # Subjects:
 
-- ## Programming:
+## Programming:
 
 > ### JavaScript
     > Frameworks
@@ -20,6 +20,6 @@ This is a comprehensive list of what technologies I studied after I started my c
 > ### C
   - #### GCC
 
--  ## Computer Science:
+## Computer Science:
 
--  ## Information Security:
+## Information Security:
