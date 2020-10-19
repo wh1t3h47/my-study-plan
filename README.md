@@ -24,6 +24,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [ ] https://nuxtjs.org/faq/github-pages
     > #### Vue/ Vuetify
     > - [x] https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
+    > - [X] https://vuetifyjs.com/en/components/toolbars/
 
 - ### CSS
 
