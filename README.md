@@ -17,10 +17,13 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [ ] https://medium.com/vue-mastery/how-to-create-vue-js-transitions-6487dffd0baa
     > - [x] https://www.vuemastery.com/blog/Reactivity-Vue2-vs-Vue3/
     > - [x] https://vue-loader.vuejs.org/guide/scoped-css.html
-    > #### Vue/ nuxt
+    > #### Vue/ Nuxt
     > - [x] https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b
     > - [ ] https://nuxtjs.org/examples/routes-transitions/
     > - [x] https://nuxtjs.org/guides/features/deployment-targets/
+    > - [ ] https://nuxtjs.org/faq/github-pages
+    > #### Vue/ Vuetify
+    > - [x] https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
 
 - ### CSS
 
