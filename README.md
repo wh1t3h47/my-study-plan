@@ -25,6 +25,10 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Vue/ Vuetify
     > - [x] https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
     > - [X] https://vuetifyjs.com/en/components/toolbars/
+  - ### Node
+    > #### Guides
+    > - [x] https://nodejs.org/en/docs/guides/getting-started-guide/
+    > - [x] https://nodejs.org/en/docs/guides/debugging-getting-started/
 
 - ### CSS
 
