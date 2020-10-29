@@ -11,6 +11,8 @@ This is a comprehensive list of what technologies I studied after I started my c
 ## Programming:
 
 - ### JavaScript
+  - #### ES6
+    > - [x] https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/
   - #### Frameworks
     > #### Vue
     > - [x] https://www.youtube.com/watch?v=4deVCNJq3qc
