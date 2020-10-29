@@ -32,6 +32,8 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Guides
     > - [x] https://nodejs.org/en/docs/guides/getting-started-guide/
     > - [x] https://nodejs.org/en/docs/guides/debugging-getting-started/
+    > #### Node + TypeScript + Mongoose
+    > - [x] https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
 
 - ### CSS
 
