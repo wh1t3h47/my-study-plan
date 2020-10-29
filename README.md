@@ -13,6 +13,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### JavaScript
   - #### ES6
     > - [x] https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/
+    > - [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
   - #### Frameworks
     > #### Vue
     > - [x] https://www.youtube.com/watch?v=4deVCNJq3qc
