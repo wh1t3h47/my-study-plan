@@ -35,7 +35,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Node + TypeScript + Mongoose
     > - [x] https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
     > - [x] https://wanago.io/2018/12/10/express-mongodb-typescript-env-var/
-    > - [ ] https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
+    > - [x] https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
     > - [ ] https://wanago.io/2018/12/24/typescript-express-registering-authenticating-jwt/
     > - [ ] https://wanago.io/2018/12/31/mongodb-relationships-documents-typescript-express-tutorial-5/
     > - [ ] https://wanago.io/2019/01/07/mongodb-aggregation-basic-data-processing-typescript-express-tutorial-6/
