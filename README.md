@@ -34,6 +34,20 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [x] https://nodejs.org/en/docs/guides/debugging-getting-started/
     > #### Node + TypeScript + Mongoose
     > - [x] https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
+    > - [x] https://wanago.io/2018/12/10/express-mongodb-typescript-env-var/
+    > - [ ] https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
+    > - [ ] https://wanago.io/2018/12/24/typescript-express-registering-authenticating-jwt/
+    > - [ ] https://wanago.io/2018/12/31/mongodb-relationships-documents-typescript-express-tutorial-5/
+    > - [ ] https://wanago.io/2019/01/07/mongodb-aggregation-basic-data-processing-typescript-express-tutorial-6/
+    > - [ ] https://wanago.io/2019/01/14/express-postgres-relational-databases-typeorm/
+    > - [ ] https://wanago.io/2019/01/21/typescript-express-tutorial-8-types-of-relationships-with-postgres-and-typeorm/
+    > - [ ] https://wanago.io/2019/01/28/typeorm-migrations-postgres/
+    > - [ ] https://wanago.io/2019/02/04/typescript-express-testing/
+    > - [ ] https://wanago.io/2019/07/22/nodejs-two-factor-authentication/
+    > - [ ] https://wanago.io/2019/10/14/typescript-express-ci-cd-pipeline-travis-heroku/
+    > - [ ] https://wanago.io/2020/02/10/typescript-express-tutorial-13-using-mongoose-virtuals-to-populate-documents/
+    > - [ ] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
+    > - [ ] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
 
 - ### CSS
 
