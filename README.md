@@ -28,6 +28,8 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Vue/ Vuetify
     > - [x] https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
     > - [X] https://vuetifyjs.com/en/components/toolbars/
+    > #### Jest
+    > - [x] https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/
   - ### Node
     > #### Guides
     > - [x] https://nodejs.org/en/docs/guides/getting-started-guide/
