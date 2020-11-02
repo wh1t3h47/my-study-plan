@@ -38,7 +38,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [x] https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
     > - [ ] https://wanago.io/2018/12/24/typescript-express-registering-authenticating-jwt/
     > - [x] https://wanago.io/2018/12/31/mongodb-relationships-documents-typescript-express-tutorial-5/
-    > - [ ] https://wanago.io/2019/01/07/mongodb-aggregation-basic-data-processing-typescript-express-tutorial-6/
+    > - [x] https://wanago.io/2019/01/07/mongodb-aggregation-basic-data-processing-typescript-express-tutorial-6/
     > - [ ] https://wanago.io/2019/01/14/express-postgres-relational-databases-typeorm/
     > - [ ] https://wanago.io/2019/01/21/typescript-express-tutorial-8-types-of-relationships-with-postgres-and-typeorm/
     > - [ ] https://wanago.io/2019/01/28/typeorm-migrations-postgres/
