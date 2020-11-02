@@ -50,7 +50,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [ ] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
 
 - ### MongoDB
-  > [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
+  > - [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
 
 - ### CSS
 
