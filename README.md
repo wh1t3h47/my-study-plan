@@ -50,6 +50,8 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [x] https://wanago.io/2020/02/10/typescript-express-tutorial-13-using-mongoose-virtuals-to-populate-documents/
     > - [x] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
     > - [x] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
+    > - #### Mongoose
+    > [x] https://mongoosejs.com/docs/tutorials/virtuals.html
 
 - ### MongoDB
   > - [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
