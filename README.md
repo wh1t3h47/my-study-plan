@@ -49,7 +49,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [ ] https://wanago.io/2019/10/14/typescript-express-ci-cd-pipeline-travis-heroku/
     > - [x] https://wanago.io/2020/02/10/typescript-express-tutorial-13-using-mongoose-virtuals-to-populate-documents/
     > - [x] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
-    > - [ ] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
+    > - [x] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
 
 - ### MongoDB
   > - [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
@@ -57,7 +57,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### CSS
 
 - ### HTML
-  > - [x] https://developer.mozilla.org/pt-BR/docs/Mozilla/Mobile/Viewport_meta_tag
+  > - [x] https://developer.mozilla.org/pt-BR/docs/Molla/Mobile/Viewport_meta_tag
 
 - ### Python
 
