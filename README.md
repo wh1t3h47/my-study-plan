@@ -48,7 +48,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [ ] https://wanago.io/2019/07/22/nodejs-two-factor-authentication/
     > - [ ] https://wanago.io/2019/10/14/typescript-express-ci-cd-pipeline-travis-heroku/
     > - [x] https://wanago.io/2020/02/10/typescript-express-tutorial-13-using-mongoose-virtuals-to-populate-documents/
-    > - [ ] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
+    > - [x] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
     > - [ ] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
 
 - ### MongoDB
