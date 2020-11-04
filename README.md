@@ -11,6 +11,7 @@ This is a comprehensive list of what technologies I studied after I started my c
 ## Programming:
 
 - ### JavaScript
+  > - [x] https://css-tricks.com/breaking-performance-api/
   - #### ES6
     > - [x] https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/
     > - [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
