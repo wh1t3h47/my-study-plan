@@ -13,6 +13,9 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### JavaScript
   > - [x] https://css-tricks.com/breaking-performance-api/
   > - [x] https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API
+  - #### Design Patterns:
+    > - [x] [Async Lazy initializer pattern](https://advancedweb.hu/the-async-lazy-initializer-pattern-in-javascript/)
+      > - Async Lazy Initializer Pattern is a pattern that invokes an asynchronous function only once and only when it's needed, it can still have memoization and is cache-able;
   - #### ES6
     > - [x] https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/
     > - [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
