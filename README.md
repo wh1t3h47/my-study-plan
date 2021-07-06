@@ -55,8 +55,12 @@ This is a comprehensive list of what technologies I studied after I started my c
     > - [x] https://wanago.io/2020/02/10/typescript-express-tutorial-13-using-mongoose-virtuals-to-populate-documents/
     > - [x] https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/
     > - [x] https://wanago.io/2020/04/27/typescript-express-put-vs-patch-mongodb-mongoose/
+    > - [x] [How to use async file-based caching or zip-based caching](https://advancedweb.hu/how-to-implement-a-persistent-file-based-cache-in-node-js/)
+      > - File based caching is useful when you need the result to survive across reboots. It is very powerful and can be used in conjunction with Async Lazy Initializer design pattern, but it has a drawback: Cache-based errors can survive reboots! So it must be implemented with care
     > - #### Mongoose
     > - [x] https://mongoosejs.com/docs/tutorials/virtuals.html
+    > - [x] [https://www.youtube.com/watch?v=7kmttmmlygc](MongoDB blind SQL injection with express and Mongoose)
+      > - Blind SQL injection is possible in implementations of NodeJS and express where use input in a REST request is not type-consistent. This happens because of an error in mongoose find function's design, where it allows a key to be either a string (which is normally okay) or an object that might do priviledged operations; This is a form of the confused deputy problem, in which type confusion is contained
 
 - ### MongoDB
   > - [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
@@ -74,3 +78,5 @@ This is a comprehensive list of what technologies I studied after I started my c
 ## Computer Science:
 
 ## Information Security:
+> - [x] [Confused Deputy Problem](https://en.wikipedia.org/wiki/Confused_deputy_problem)
+> - [x] [Off-By-One Error/ Memory Corruption](https://en.wikipedia.org/wiki/Off-by-one_error)
