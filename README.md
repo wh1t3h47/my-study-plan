@@ -33,6 +33,9 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Vue/ Vuetify
     > - [x] https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
     > - [X] https://vuetifyjs.com/en/components/toolbars/
+    > #### React
+    > > - [X] https://ui.dev/react-router-v5-animated-transitions/
+    > > - This video explains how to use CSSTransitions to animate react router, it is the best approach as it works well with Redirect and route
     > #### Jest
     > - [x] https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/
   - ### Node
