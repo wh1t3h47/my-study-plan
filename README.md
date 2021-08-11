@@ -36,6 +36,9 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### React
     > > - [X] https://ui.dev/react-router-v5-animated-transitions/
     > > - This video explains how to use CSSTransitions to animate react router, it is the best approach as it works well with Redirect and route
+    > #### React/ Redux
+    > > - [x] https://redux.js.org/introduction/getting-started
+    > > - This document gives an introduction about Redux, demonstrating how to install/ setup Redux with create-react-app and also showing a basic example of a reducer function, with it's core pattern (having the dispatcher, a switch and actions).
     > #### Jest
     > - [x] https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/
   - ### Node
