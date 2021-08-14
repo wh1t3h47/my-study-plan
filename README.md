@@ -36,6 +36,7 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### React
     > > - [X] https://ui.dev/react-router-v5-animated-transitions/
     > > - This video explains how to use CSSTransitions to animate react router, it is the best approach as it works well with Redirect and route
+    > > - [X] [https://pt-br.reactjs.org/docs/error-boundaries.html](Error boundaries no React) Error boundaries são utilizadas como um equivalente de try-catch, exceto que essas pegam erros em partes declarativas do React, como, por exemplo, setState e no JSX. Essa forma de pegar erros se mostra eficiente quando a árvore de componentes quebra e queremos mostrar uma mensagem de erro ao invés de não exibir nada (que é o padrão a partir da versão 16 do React)
     > #### React/ Redux
     > > - [x] https://redux.js.org/introduction/getting-started
     > > - This document gives an introduction about Redux, demonstrating how to install/ setup Redux with create-react-app and also showing a basic example of a reducer function, with it's core pattern (having the dispatcher, a switch and actions).
