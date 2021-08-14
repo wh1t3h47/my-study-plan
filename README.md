@@ -77,6 +77,7 @@ This is a comprehensive list of what technologies I studied after I started my c
   > - [x] https://developer.mozilla.org/pt-BR/docs/Molla/Mobile/Viewport_meta_tag
 
 - ### Python
+> - [x] [https://www.ianlewis.org/en/mixins-and-python](Mixins no Python) Esse artigo fala sobre classes mixin, que permitem um estilo de composição e herança múltipla, além disso, também trata sobre um comportamento comum errático que frequentemente gera bugs, que é definir as heranças no argumento da classe da esquerda para direita, quando na verdade a ordem correta seria da direita (classe base) para esquerda (primeira classe pai), esse comportamento só se torna problemático quando as classes mixin sobrescrevem algum método
 
 - ### C
 
