@@ -43,6 +43,8 @@ This is a comprehensive list of what technologies I studied after I started my c
     > #### Jest
     > - [x] https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/
   - ### Node
+    > - [x] [https://www.geeksforgeeks.org/why-node-js-is-a-single-threaded-language/](Why node.js is a single threaded language)
+    > - This article explains about the architecture decisions behind node.js being single-threaded and assynchronous rather than multi-threaded, it also explains that under the hood, it can use threads for assynchronous calls using libuv and C++ programs.
     > #### Guides
     > - [x] https://nodejs.org/en/docs/guides/getting-started-guide/
     > - [x] https://nodejs.org/en/docs/guides/debugging-getting-started/
