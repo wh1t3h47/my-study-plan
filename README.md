@@ -74,6 +74,9 @@ This is a comprehensive list of what technologies I studied after I started my c
 - ### MongoDB
   > - [x] https://docs.mongodb.com/manual/reference/operator/aggregation/group/#accumulator-operator
 
+- ### GraphQL
+  > - [x] https://relay.dev/docs/guides/graphql-server-specification/
+
 - ### CSS
 
 - ### HTML
